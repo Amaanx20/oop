@@ -1,0 +1,16 @@
+
+//a. What is the latest version of the Java SDK that is available?
+//JDK 21
+
+//b. What is the difference between Java SE and Java ME?
+// Java SE can be applied to more simple applications whereas Java ME is targeted towards mobiles and embedded devices
+
+
+//c. Which operating system is Java available for?
+// Windows,linux and mac
+
+//d. What is the most popular IDE available for Java apart from Eclipse?
+// Intellij
+
+//e. What is the main() function for in a Java program?
+// the class name for the java IDE to run the program
