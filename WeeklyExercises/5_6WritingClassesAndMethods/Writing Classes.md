@@ -31,6 +31,6 @@ Design and implement a class called Bulb that represents a light bulb that can b
  
 Modify the Account class from the unit examples so that it also permits an account to be opened with just a name and an account number, assuming an initial balance of zero. Modify the main method of the Transactions class to demonstrate this new capability.
  
-***5) Cards***
+***5) Card_numbers***
  
-Design and implement a class called Card that represents a standard playing card. Each card has a suit and a face value. Create a program that deals five random cards.
+Design and implement a class called Card that represents a standard playing Card. Each Card has a suit and a face value. Create a program that deals five random cards.
